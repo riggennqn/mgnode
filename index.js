@@ -1,8 +1,8 @@
-const http = require('http');
+const http = require("http");
 
-function requestController(){
-    console.log('Hola Mundo');
+function requestController() {
+  console.log("Hola Mundo");
 }
 
 const server = http.createServer(requestController);
-server.listen(5500)
+server.listen(5500);
