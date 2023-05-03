@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start" : "node index.js",
-    "dev" : "nodemon index.js",
+    "start": "node index.js",
+    "dev": "nodemon index.js",
     "build": "npm run start.js"
   },
   "keywords": [
@@ -15,6 +15,7 @@
   "author": "andresitoquerido",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.0.3",
     "yarm": "^0.4.0"
   },
   "devDependencies": {
