@@ -16,7 +16,7 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.0.3",
-    "yarm": "^0.4.0"
+    "yarn": "^1.22.19"
   },
   "devDependencies": {
     "nodemon": "^2.0.22"
