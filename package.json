@@ -2,5 +2,16 @@
   "dependencies": {
     "yarm": "^0.4.0",
     "yarn": "^1.22.19"
+  },
+  "name": "nodemg",
+  "version": "1.0.0",
+  "description": "aprendiendo node con martin gesualdo",
+  "main": "index.js",
+  "repository": "https://github.com/riggennqn/mgnode",
+  "author": "andresucho pucho <andresuchopuchopichi@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "nodemon": "^2.0.22"
   }
 }
